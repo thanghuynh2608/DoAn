@@ -8,7 +8,6 @@ import java.awt.event.ActionListener;
 import java.net.Inet4Address;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
-
 import javax.swing.JFrame;
 import javax.swing.JTextField;
 
